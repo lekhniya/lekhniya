@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Student with a passion for Artificial Intell
 
 ## 🚀 About Me
 
-- 🎓 I’m currently studying  or pursuing Bachlor of Technology in Artificial Intelligence and data science
+- 🎓 I’m currently studying  or pursuing Bachelor of Technology in Artificial Intelligence and data science
 - 🌱 I’m currently learning Machine Learning Concepts.
 - 💬 Ask me about Python Programming.
 - 👯 I’m looking to collaborate on Machine Learning and Artificial intelligence Project ideas.
