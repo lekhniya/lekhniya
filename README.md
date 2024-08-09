@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Lekhni Churhe 👋
 
 Welcome to my GitHub profile! I'm a Student with a passion for Artificial Intelligence and Machine Learning projects. I love working on projects related to Machine Learning, and I'm always eager to learn and collaborate with others.
 
@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm a Student with a passion for Artificial Intell
 - 📫 How to reach me: E-Mail : lekhni2003@gmail.com .
 - ⚡ Fun fact: I’m intrigued by those with unconventional, intense personalities and unique perspectives that challenge norms.
 
-
+## 🌐 Connect with Me
+Linkedin : https://www.linkedin.com/in/lekhni-churhe-a06451237/
 <!---
 lekhniya/lekhniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
